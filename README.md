@@ -1,5 +1,3 @@
-
-
 # 🚀 API + Frontend Performance Tester CLI
 
 A powerful command-line tool for **stress testing APIs** and **auditing frontend performance** — all from one unified interface.
