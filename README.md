@@ -130,16 +130,6 @@ api_tester/
 
 ---
 
-## 🙌 Author
-
-Made with ❤️ by \[Your Name]
-Contributions welcome — feel free to fork and submit PRs!
-
----
-
-## ⚠️ License
-
-MIT License — use freely but don’t abuse APIs you don’t own.
 
 ```
 
