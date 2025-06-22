@@ -1,6 +1,4 @@
-Here’s a clean, professional `README.md` for your API and frontend performance testing CLI project:
 
----
 
 # 🚀 API + Frontend Performance Tester CLI
 
