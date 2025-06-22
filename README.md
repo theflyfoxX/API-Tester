@@ -2,7 +2,6 @@ Here’s a clean, professional `README.md` for your API and frontend performance
 
 ---
 
-````markdown
 # 🚀 API + Frontend Performance Tester CLI
 
 A powerful command-line tool for **stress testing APIs** and **auditing frontend performance** — all from one unified interface.
@@ -133,7 +132,4 @@ api_tester/
 
 ```
 
----
 
-Let me know if you'd like this tailored for GitHub (badges, repo links), or want to add logo/branding for a personal or team project.
-```
