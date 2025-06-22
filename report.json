@@ -1,0 +1,19 @@
+{
+  "api_test": {
+    "url": "https://example.com",
+    "total": 100,
+    "success": 100,
+    "failures": 0,
+    "avg_latency": 0.197,
+    "min_latency": 0.15,
+    "max_latency": 0.566
+  },
+  "frontend_audit": {
+    "url": "https://example.com",
+    "performance_score": 100,
+    "fcp": "0.8\u00a0s",
+    "lcp": "0.8\u00a0s",
+    "tbt": "0\u00a0ms",
+    "cls": "0"
+  }
+}
