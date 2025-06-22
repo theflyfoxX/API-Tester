@@ -39,7 +39,7 @@ A powerful command-line tool for **stress testing APIs** and **auditing frontend
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourname/api-perf-cli
+git clone https://github.com/theflyfoxX/API-Tester.git
 cd api-perf-cli
 ````
 
@@ -127,9 +127,5 @@ api_tester/
 * [ ] Upload results to a dashboard
 * [ ] CI-friendly output mode (no colors)
 
----
-
-
-```
 
 
